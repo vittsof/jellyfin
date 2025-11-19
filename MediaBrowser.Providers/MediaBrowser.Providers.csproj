@@ -59,5 +59,7 @@
     <EmbeddedResource Include="Plugins\StudioImages\Configuration\config.html" />
     <None Remove="Plugins\Tmdb\Configuration\config.html" />
     <EmbeddedResource Include="Plugins\Tmdb\Configuration\config.html" />
+    <None Remove="Plugins\AdultMetadata\Configuration\configPage.html" />
+    <EmbeddedResource Include="Plugins\AdultMetadata\Configuration\configPage.html" />
   </ItemGroup>
 </Project>
